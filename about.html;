@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Payment Gateway</title>
+</head>
+
+
+<body class="background">
+  <div class="content">
+
+
+    <nav class="navbar">
+      <div class="white"><h1>Payment Gateway</h1></div>
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  
+ <div class="container donate about">
+
+  <img src="dona.jpg" alt="">
+  
+  Women hold our worlds together in a million ways as a mother, a sister, a daughter,
+  a homemaker, a teacher, a doctor, and a leader. A girl child enters the world with 
+  the same hopes, dreams, and aspirations as a boy, but she quickly discovers that fulfilling 
+  them is far more difficult. The lack of an education and the numerous regulations that a 
+  girl is required to follow in order to conform to societal norms causes her to suffer 
+  psychologically, emotionally, and physically from an early age.
+  Educate, equip, and empower girl children with great education, right nutrition, 
+  good health, appropriate skills, and, most importantly, a high level of self-confidence 
+  to help them live their life to their best potential.
+  </div>
+
+</div>
+
+<footer>
+  <p>Copyright &copy 2022. All right reserved.</p>
+</footer>
+
+</body>
+</html>
